@@ -225,7 +225,7 @@ span{
     }
     41%,
     60%{
-        content: "Web Design";
+        content: "De Web Design";
     }
     61%,
     80%{
@@ -233,7 +233,7 @@ span{
     }
     81%,
     100%{
-        content: "Tráfego Pago";
+        content: "De Tráfego Pago";
     }
 }
 @keyframes typing{
